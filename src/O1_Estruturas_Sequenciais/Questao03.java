@@ -2,7 +2,7 @@
 3.  Fazer  um  algoritmo  para  receber  um  valor  em  dólar  e converter  esse  valor  em 
 real. 
  */
-package O1.Estruturas_Sequenciais;
+package O1_Estruturas_Sequenciais;
 
 import java.util.Scanner;
 

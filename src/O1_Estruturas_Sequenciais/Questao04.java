@@ -2,7 +2,7 @@
 4.  Fazer  um  algoritmo  para  calcular  a  média  final  (média  aritmética)
 de  um  aluno, considerando a realização de quatro avaliações. 
  */
-package O1.Estruturas_Sequenciais;
+package O1_Estruturas_Sequenciais;
 
 import java.util.Scanner;
 

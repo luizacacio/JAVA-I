@@ -2,7 +2,7 @@
 2.  Fazer  um  algoritmo  para  calcular  a  soma  entre  dois  números  e  multiplicar  o 
 resultado pelo primeiro. 
  */
-package O1.Estruturas_Sequenciais;
+package O1_Estruturas_Sequenciais;
 
 import java.util.Scanner;
 
